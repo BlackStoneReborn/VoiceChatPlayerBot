@@ -25,6 +25,6 @@ Neither this, or PyTgCalls are stable.
 
 ## Credits
 
-- [Roj](https://github.com/rojserbest): main developer
-- [Marvin](https://github.com/BlackStoneReborn): bug reporter
+- [Roj](https://github.com/rojserbest): main dev
+- [Marvin](https://github.com/BlackStoneReborn): Modifier & bugfinder
 - [Laky](https://github.com/Laky-64) & [Andrew](https://github.com/AndrewLaneX): PyTgCalls
